@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="bacoder.jgit.eclipse.console" type="repository">
+    <properties maven-id="com.bacoder.jgit:org.eclipse.jgit.console:3.1.0-201309071158-r">
+      <exclude>
+        <dependency maven-id="com.bacoder.jgit:org.eclipse.jgit.console" />
+        <dependency maven-id="com.bacoder.jgit:org.eclipse.jgit" />
+      </exclude>
+    </properties>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
